@@ -1,2 +1,2 @@
 # OOP-CampuX
-The CampusX OOP Lectures and their associated files
+Learning, exploring and diving into new things
